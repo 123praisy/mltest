@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-model = joblib.load('linear_regression_model.pkl')
+model = joblib.load('linear_regression_model (1).pkl')
 
 st.title('Auto MPG Predictor')
 
